@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">AppDelClima</string>
+    <string name="weather_temp_text">23 &#176;C</string>
+    <string name="weather_desc_text">Tormenta</string>
+    <string name="city_name">La Plata</string>
+    <string name="weather_image_desc">Imagen del clima de la ciudad</string>
+    <string name="text_filed_hint">Ingresa la ciudad</string>
+    <string name="button_check_weather">Chequear clima</string>
+    <string name="current_weather_title">Clima actual</string>
+    <string name="recent_cities_title">Ciudades recientes</string>
+    <string name="weather_detail_title">Detalle del clima</string>
+    <string name="recent_cities_list" />
+    <string name="to_current_weather">Clima actual</string>
+    <string name="entered_city_name" />
+    <string name="button_recent_cities">Ciudades visitadas recientemente</string>
+    <string name="recent_cities_heading">LISTA DE CIUDADES BUSCADAS</string>
+    <string name="text_temperature">Temperatura:</string>
+    <string name="weather_text">Clima:</string>
+    <string name="basic_details_sub">Info basica:</string>
+    <string name="feels_like_heading_text">Feels Like:</string>
+    <string name="other_details_sub">Otros datos:</string>
+    <string name="min_temp_heading_text">Temperatura \Minima:</string>
+    <string name="max_temp_heading_text">Temperatura \Maxima:</string>
+    <string name="humidity_heading_text">Humedad:</string>
+    <string name="wind_speed_heading_text">Velocidad del viento:</string>
+    <string name="cloudiness_heading_text">Nubosidad:</string>
+    <string name="visibility_heading_text">Visibilidad:</string>
+    <string name="more_details"><u>Mas detalles</u></string>
+    <string name="no_info">N/A</string>
 </resources>
